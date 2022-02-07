@@ -7,4 +7,5 @@ Following is the line of best fit after 5000 iterations overlaid on the scatterp
 
 ![Scatter Plot](https://user-images.githubusercontent.com/75154810/152836780-af1f15b0-e73f-485c-99dd-1de9ed0bef2b.png)
 
-Following is how the cost function trends over iterations.![Cost Function Output](https://user-images.githubusercontent.com/75154810/152837002-2595eedd-0621-43d8-896b-0047a2652f00.png)
+Following is how the cost function trends over iterations.
+![Cost Function Output](https://user-images.githubusercontent.com/75154810/152837002-2595eedd-0621-43d8-896b-0047a2652f00.png)
